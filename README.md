@@ -1,3 +1,3 @@
 # AlgoU Online Compiler
-<img src="https://github.com/bhavesh1129/AlgoU-Online-Compiler-2/blob/main/frontend/Snapshot.png" />
+<img src="./frontend/images/Screenshot 2024-06-30 201819.png" />
 
